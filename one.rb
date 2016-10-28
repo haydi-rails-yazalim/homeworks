@@ -1,3 +1,4 @@
+#Birinci Odev
 @me=[]
 puts"How old are you?"
 age=gets.chomp
@@ -11,7 +12,7 @@ puts "What is your school name?"
 school=gets.chomp
 @me.push(school)
 
-@sum = name.length + school.length
+@sum = @me[1].length + @me[2].length
 
 if @sum >7
 	@me.push("bigger than seven")
@@ -20,4 +21,4 @@ else
 	@me.push("smaller than seven")
 end
 
-puts @me
+@me.each_with_index {|val, index| puts "[#{index}] #{val} " }
