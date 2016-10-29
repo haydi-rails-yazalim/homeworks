@@ -12,7 +12,7 @@ if @sum>7
  @me.push("7'den büyük")
 else
  @me=Array.new(0)
- @me[0]=("7'den küçük")
+ @me[0]=("7'den küçük VEYA EŞİT")
 end
 puts
 puts "Name ve School'un harf sayısı toplamı:#{@sum}"
