@@ -101,7 +101,7 @@ while true
     end
   end
   if kule2 == son || kule3 == son
-    puts "Sen Kazandın! Hepsini #{tasinan}. kuleye taşımayı başardın!"
+    puts "Sen Kazandın! Hepsini #{tasinan}. hamlede son kuleye taşımayı başardın!"
     break
   end
 end
