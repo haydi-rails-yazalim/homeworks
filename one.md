@@ -5,7 +5,7 @@ git clone git@github.com:haydi-rails-yazalim/homeworks.git
 ```
 ile projeyi yerelinize çekiniz. Ardından ```cd homeworks``` ile proje dizinine geçiniz. Yeni bir branch ```git checkout -b one/my-github-username``` açınız. Burada kendi github username'inizi kullanınız. Şimdi ```one.rb``` dosyasını bir editör ile açarak ödeve başlayabilirsiniz :)
 
-Ödevi bitirdikten sonra ```git add one.rb``` ve ```git commit -m"birinci ödev"``` ile yerelinize kaydediniz. Ardından ```git push origin one/my-github-username``` branch'ine gönderiniz. Son olarak Github üzerinden Pull-Request açınız.
+Ödevi bitirdikten sonra ```git add one.rb``` ve ```git commit -m "birinci ödev"``` ile yerelinize kaydediniz. Ardından ```git push origin one/my-github-username``` branch'ine gönderiniz. Son olarak Github üzerinden Pull-Request açınız.
 
 
 ## Ödev Detayı
