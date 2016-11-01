@@ -20,7 +20,7 @@ end
 def sayitutan
   puts
   puts "Tamamdır, tuttum! Tahmin etmeye başlayabilirsin."
-  sayi= rand(0...100)
+  sayi= rand(0..100)
   puts sayi
   tahmin=gets.chomp.to_i
   tahminler=[]
