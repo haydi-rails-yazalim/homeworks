@@ -21,6 +21,9 @@ def sayitutan
   puts
   puts "Tamamdır, tuttum! Tahmin etmeye başlayabilirsin."
   sayi= rand(0..100)
+  #rand rastgele sayı üreten bir nesnedir.
+  #rand(x) 0'dan x'e kadar olan sayılardan birini seçer.(x dahil değil)
+  #rand(a..b) şeklinde aralık vererek de kullanılabilir.
   puts sayi
   tahmin=gets.chomp.to_i
   tahminler=[]
