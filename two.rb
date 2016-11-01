@@ -1,4 +1,4 @@
-#jackpot oyunu
+#ikinci ödev -jackpot oyunu
 #ecenurozturk
 system "clear"
 puts "Oyuna Baslamak icin Adinizi Giriniz"
