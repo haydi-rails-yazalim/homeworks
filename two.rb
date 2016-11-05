@@ -33,7 +33,7 @@ while button_start != "q" do
 	puts " => Oyundan çıkmak için q tuşuna basmalınız."
 	button_start = gets.chomp
 
- if (button_start=="1")
+if (button_start=="1")
 		puts "Oyun başlıyor #{name}"
 		@start_money = @start_money - 20
 
@@ -42,6 +42,7 @@ while button_start != "q" do
 
 	else
 		puts "yanlis oldu 1 e basmalisin :)"
+                    exit
 	end
 
 	puts""
