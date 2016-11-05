@@ -26,16 +26,16 @@ def hanoi(n)
 	while !oyun_bitti_mi
 	 	puts "Hangi kuleden disk taşımak istiyorsunuz?"
 	 	buradan = gets.chomp.downcase
-     	puts "Hangi kuleye disk taşımak istiyorsunuz?"
-    	buraya  = gets.chomp.downcase
-    	tasi(buradan, buraya)
-    	kulelerigoster()
-    	if KULELER["c"].length == (1..n).to_a.length
+     		puts "Hangi kuleye disk taşımak istiyorsunuz?"
+    		buraya  = gets.chomp.downcase
+    		tasi(buradan, buraya)
+    		kulelerigoster()
+    		if KULELER["c"].length == (1..n).to_a.length
     		oyun_bitti_mi = true
     		puts "Tebrikler, siz kazandınız :)"
     		puts ""
+    		end
     	end
-    end
 end
 
 
