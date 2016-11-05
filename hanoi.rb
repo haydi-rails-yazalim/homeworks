@@ -27,7 +27,7 @@ def hanoi(n)
 	 	puts "Hangi kuleden disk taşımak istiyorsunuz?"
 	 	buradan = gets.chomp.downcase
      	puts "Hangi kuleye disk taşımak istiyorsunuz?"
-    buraya  = gets.chomp.downcase
+    	buraya  = gets.chomp.downcase
     	tasi(buradan, buraya)
     	kulelerigoster()
     	if KULELER["c"].length == (1..n).to_a.length
