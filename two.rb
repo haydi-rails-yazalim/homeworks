@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #jackpot oyunu
 #ecenurozturk
 system "clear"
@@ -116,7 +115,3 @@ if @start_money <=0
   exit
 end
   end
-=======
-#ikinci-ödev
-#my-github-username
->>>>>>> 3c0c209c4fffdea902ee4be6a36a23b3a7a6aadf
