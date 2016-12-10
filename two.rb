@@ -58,7 +58,7 @@ while (car_model != -1)
 	elsif car_model == 4
 		time = @distance / @cars[3]
 
-		def model (car_model)
+		def model (model)
  			 puts "You selected #{model} \n\n"
 		end
 		model ("plane")		
