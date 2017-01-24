@@ -1,3 +1,5 @@
-#Son gün 28 Ekim 2016
+## 1. Geleneksel Rails Ödevleri verildi.
 
-##Ödevleri yapmayı unutmayın!
+### Sorular
+
+### Cevaplar
