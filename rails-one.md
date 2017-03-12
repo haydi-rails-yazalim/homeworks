@@ -23,4 +23,4 @@ kitaplardan istediğini seçebilmeli ve kitaplığına ekleyebilmelidir.
 ## Yararlı Şeyler
 [Devise](https://github.com/plataformatec/devise)
 
-[İlişkiler]([http://guides.rubyonrails.org/association_basics.html)
+[İlişkiler](http://guides.rubyonrails.org/association_basics.html)
