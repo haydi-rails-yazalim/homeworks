@@ -21,6 +21,6 @@ ise, yeni kayıt oluşturma, tüm kayıtları listeleme gibi aksiyonlara sahip o
 kitaplardan istediğini seçebilmeli ve kitaplığına ekleyebilmelidir.
 
 ## Yararlı Şeyler
-[https://github.com/plataformatec/devise](Devise)
+[Devise](https://github.com/plataformatec/devise)
 
-[http://guides.rubyonrails.org/association_basics.html](İlişkiler)
+[İlişkiler]([http://guides.rubyonrails.org/association_basics.html)
